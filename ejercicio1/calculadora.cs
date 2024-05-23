@@ -26,8 +26,4 @@ public class Calculadora
     public void limpiar(){
         Dato = 0;
     }
-
-    
-
-
 }
